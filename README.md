@@ -18,9 +18,9 @@
 
   <img src="https://komarev.com/ghpvc/?username=your-github-fatal999&style=flat-square&color=blue" alt="Statistics"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Make your sweetheart one happy and cook her desired dinner <3
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Make your sweetheart happy and cook her desired dinner <3
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwbHVxbGZuemxxbnh2azl5MnI1MjNlejRydXh4ZnVjNXkxNXU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nn97Knvcol0rENwFk5/giphy.gif" width="35" height="35"> Stack: HTML, CSS in JS, TS, React, React Router, Rest API, Vite, Emotion for CSS in JS
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwbHVxbGZuemxxbnh2azl5MnI1MjNlejRydXh4ZnVjNXkxNXU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nn97Knvcol0rENwFk5/giphy.gif" width="35" height="35"> Stack: HTML, CSS in JS, TS, React, React Router, Redux, Rest API, Vite, Emotion
 
 ## GitHub Pages: "Coming soon"
 
