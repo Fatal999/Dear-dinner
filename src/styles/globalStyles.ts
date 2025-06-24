@@ -1,10 +1,19 @@
 import { css } from '@emotion/react'
 import CherryBombOneWoff2 from '../fonts/CherryBombOne-Regular.woff2'
+import DeliusWoff2 from '../fonts/Delius-Regular.woff2'
 
 export const globalStyles = css`
   @font-face {
     font-family: 'CherryBombOne';
     src: url(${CherryBombOneWoff2}) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Delius';
+    src: url(${DeliusWoff2}) format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
