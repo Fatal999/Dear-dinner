@@ -34,12 +34,12 @@ export const globalStyles = css`
     background-image: url('../src/assets/background.jpg');
     width: 320px;
 
-    @media (min-width: 768px) {
+    /* @media (min-width: 768px) {
       width: 768px;
     }
 
     @media (min-width: 1366px) {
       width: 1366px;
-    }
+    } */
   }
 `
